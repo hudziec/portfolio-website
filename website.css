@@ -1,0 +1,29 @@
+.left-side1 {
+    height: 600px;
+    width: 55%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    margin-left: 25px;
+}
+
+.right-side1 {
+    height: 275px;
+    width: 30%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.right-side2 {
+    height: 450px;
+    width: 30%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
